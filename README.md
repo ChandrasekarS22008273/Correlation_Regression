@@ -1,6 +1,7 @@
-Name: Chandrasekar S
-Reg. No: 212222230025
-
+                                   
+                                   NAME: Chandrasekar S
+                                   REG NO. 212222230025
+                                   
 # Ex3-Correlation and regression for data analysis
 ## Date:
 # Aim : 
